@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bom-spring-cloud-file-upload" />
+        <module name="bom-spring-cloud-zuul" />
+        <module name="bom-spring-cloud-service-arg-unit" />
+        <module name="bom-spring-cloud-service-production" />
+        <module name="bom-spring-cloud-springboot-admin" />
+        <module name="bom-spring-cloud-zipkin" />
+        <module name="bom-spring-cloud-service-admin" />
+        <module name="bom-spring-cloud-eureka" />
+        <module name="bom-spring-cloud-api-production" />
+        <module name="bom-spring-cloud-api-admin" />
+        <module name="bom-spring-cloud-api-arg-unit" />
+        <module name="bom-spring-cloud-config" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bom-spring-cloud-api-admin" target="1.8" />
+      <module name="bom-spring-cloud-api-arg-unit" target="1.8" />
+      <module name="bom-spring-cloud-api-production" target="1.8" />
+      <module name="bom-spring-cloud-config" target="1.8" />
+      <module name="bom-spring-cloud-dependencies" target="1.8" />
+      <module name="bom-spring-cloud-eureka" target="1.8" />
+      <module name="bom-spring-cloud-file-upload" target="1.8" />
+      <module name="bom-spring-cloud-flie-upload" target="1.8" />
+      <module name="bom-spring-cloud-service-admin" target="1.8" />
+      <module name="bom-spring-cloud-service-arg-unit" target="1.8" />
+      <module name="bom-spring-cloud-service-production" target="1.8" />
+      <module name="bom-spring-cloud-springboot-admin" target="1.8" />
+      <module name="bom-spring-cloud-zipkin" target="1.8" />
+      <module name="bom-spring-cloud-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bom-spring-cloud-api-admin" options="-parameters" />
+      <module name="bom-spring-cloud-api-arg-unit" options="-parameters" />
+      <module name="bom-spring-cloud-api-production" options="-parameters" />
+      <module name="bom-spring-cloud-config" options="-parameters" />
+      <module name="bom-spring-cloud-eureka" options="-parameters" />
+      <module name="bom-spring-cloud-file-upload" options="-parameters" />
+      <module name="bom-spring-cloud-flie-upload" options="-parameters" />
+      <module name="bom-spring-cloud-service-admin" options="-parameters" />
+      <module name="bom-spring-cloud-service-arg-unit" options="-parameters" />
+      <module name="bom-spring-cloud-service-production" options="-parameters" />
+      <module name="bom-spring-cloud-springboot-admin" options="-parameters" />
+      <module name="bom-spring-cloud-zipkin" options="-parameters" />
+      <module name="bom-spring-cloud-zuul" options="-parameters" />
+    </option>
+  </component>
+</project>

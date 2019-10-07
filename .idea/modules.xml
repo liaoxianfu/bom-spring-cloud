@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/bom-spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/bom-spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bom-spring-cloud-api-admin/bom-spring-cloud-api-admin.iml" filepath="$PROJECT_DIR$/bom-spring-cloud-api-admin/bom-spring-cloud-api-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bom-spring-cloud-api-arg-unit/bom-spring-cloud-api-arg-unit.iml" filepath="$PROJECT_DIR$/bom-spring-cloud-api-arg-unit/bom-spring-cloud-api-arg-unit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bom-spring-cloud-api-production/bom-spring-cloud-api-production.iml" filepath="$PROJECT_DIR$/bom-spring-cloud-api-production/bom-spring-cloud-api-production.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bom-spring-cloud-config/bom-spring-cloud-config.iml" filepath="$PROJECT_DIR$/bom-spring-cloud-config/bom-spring-cloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bom-spring-cloud-dependencies/bom-spring-cloud-dependencies.iml" filepath="$PROJECT_DIR$/bom-spring-cloud-dependencies/bom-spring-cloud-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bom-spring-cloud-eureka/bom-spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/bom-spring-cloud-eureka/bom-spring-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bom-spring-cloud-file-upload/bom-spring-cloud-file-upload.iml" filepath="$PROJECT_DIR$/bom-spring-cloud-file-upload/bom-spring-cloud-file-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bom-spring-cloud-service-admin/bom-spring-cloud-service-admin.iml" filepath="$PROJECT_DIR$/bom-spring-cloud-service-admin/bom-spring-cloud-service-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bom-spring-cloud-service-arg-unit/bom-spring-cloud-service-arg-unit.iml" filepath="$PROJECT_DIR$/bom-spring-cloud-service-arg-unit/bom-spring-cloud-service-arg-unit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bom-spring-cloud-service-production/bom-spring-cloud-service-production.iml" filepath="$PROJECT_DIR$/bom-spring-cloud-service-production/bom-spring-cloud-service-production.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bom-spring-cloud-springboot-admin/bom-spring-cloud-springboot-admin.iml" filepath="$PROJECT_DIR$/bom-spring-cloud-springboot-admin/bom-spring-cloud-springboot-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bom-spring-cloud-zipkin/bom-spring-cloud-zipkin.iml" filepath="$PROJECT_DIR$/bom-spring-cloud-zipkin/bom-spring-cloud-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bom-spring-cloud-zuul/bom-spring-cloud-zuul.iml" filepath="$PROJECT_DIR$/bom-spring-cloud-zuul/bom-spring-cloud-zuul.iml" />
+    </modules>
+  </component>
+</project>

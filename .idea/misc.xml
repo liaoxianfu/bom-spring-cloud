@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/bom-spring-cloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/bom-spring-cloud-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/bom-spring-cloud-service-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/bom-spring-cloud-service-arg-unit/pom.xml" />
+        <option value="$PROJECT_DIR$/bom-spring-cloud-service-production/pom.xml" />
+        <option value="$PROJECT_DIR$/bom-spring-cloud-springboot-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/bom-spring-cloud-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/bom-spring-cloud-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/bom-spring-cloud-api-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/bom-spring-cloud-api-arg-unit/pom.xml" />
+        <option value="$PROJECT_DIR$/bom-spring-cloud-api-production/pom.xml" />
+        <option value="$PROJECT_DIR$/bom-spring-cloud-config/pom.xml" />
+        <option value="$PROJECT_DIR$/bom-spring-cloud-flie-upload/pom.xml" />
+        <option value="$PROJECT_DIR$/bom-spring-cloud-file-upload/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

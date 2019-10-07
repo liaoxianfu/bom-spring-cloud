@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bom-spring-cloud-api-admin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bom-spring-cloud-api-arg-unit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bom-spring-cloud-api-production" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bom-spring-cloud-config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bom-spring-cloud-dependencies" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bom-spring-cloud-eureka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bom-spring-cloud-file-upload" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bom-spring-cloud-service-admin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bom-spring-cloud-service-arg-unit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bom-spring-cloud-service-production" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bom-spring-cloud-springboot-admin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bom-spring-cloud-zipkin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bom-spring-cloud-zuul" vcs="Git" />
+  </component>
+</project>

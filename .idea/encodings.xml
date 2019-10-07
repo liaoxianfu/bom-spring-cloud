@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/bom-spring-cloud-api-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bom-spring-cloud-api-arg-unit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bom-spring-cloud-api-production" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bom-spring-cloud-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bom-spring-cloud-dependencies" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bom-spring-cloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bom-spring-cloud-file-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bom-spring-cloud-flie-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bom-spring-cloud-service-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bom-spring-cloud-service-arg-unit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bom-spring-cloud-service-production" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bom-spring-cloud-springboot-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bom-spring-cloud-zipkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bom-spring-cloud-zuul" charset="UTF-8" />
+  </component>
+</project>
